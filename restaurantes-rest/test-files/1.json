@@ -1,0 +1,15 @@
+{
+	"id": "402c135d-02f2-4ce9-984a-30a2ab87c4c7",
+	"nombre": "Restaurante 4",
+	"coordenadas": "55-75",
+	"sitios": [
+		{
+			"wikipedia": "https://es.wikipedia.org/wiki/Catedral_de_Murcia",
+			"resumen": "sitio 5 ...",
+			"categorias": [],
+			"enlaces": [],
+			"imagenes": []
+		}
+	],
+	"platos": []
+}
